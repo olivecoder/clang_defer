@@ -14,10 +14,10 @@ There is an usage example in the code.
 
 Todo
 ----
-[ ] Split out the code and example 
-[ ] Write more examples
-[ ] Write a makefile
-[ ] Write tests
+- [ ] Split out the code and example 
+- [ ] Write more examples
+- [ ] Write a makefile
+- [ ] Write tests
 
 
 

@@ -7,7 +7,8 @@ Very basic implementation of the Go Lang defer in C using the gcc extensions. Th
 
 USAGE
 ====
-The idea is scheduled the resource releasing just after acquire it. So we can open a file and defer the closing. Alloc memory and defer the deallocation. Acquire a mutex and defer the releasing...
+The idea is to schedule the resource releasing just after acquire it. So we can open a file and defer the closing. Alloc memory and defer the deallocation. Acquire a mutex and defer the releasing, etc. So, this way, we can avoid resource leaking.
+
 There is an usage example in the code.
 
 
